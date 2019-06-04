@@ -1807,7 +1807,7 @@ body {
 }
 .cid-rsqJr3jaSL {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rsqJr3jaSL h4 {
@@ -2330,7 +2330,7 @@ body {
 .cid-rsrDBoZ1uf {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3526,6 +3526,77 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rsrJonMMml {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/raccoon-1318x988.png");
+}
+.cid-rsrJonMMml .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rsrJonMMml h4 {
+  font-weight: 500;
+}
+.cid-rsrJonMMml p {
+  color: #232323;
+}
+.cid-rsrJonMMml .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rsrJonMMml .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rsrJonMMml .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rsrJonMMml .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rsrJonMMml .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rsrJonMMml .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rsrJonMMml .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rsrJonMMml .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rsrJonMMml .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rsrJonMMml .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-rsrJonMMml .text2,
+.cid-rsrJonMMml .mbr-section-btn {
+  text-align: left;
 }
 .cid-rsrCtpLg2g {
   padding-top: 90px;
